@@ -16,7 +16,7 @@ This reposity contains a few utility functions that could be used in replacement
 
 If your wanting to grab the contents of this repository I recommend using the degit package to copy the contents of this repository for your own project.
 
-From your project directory inside the terminal run `npm degit quelchx/utilities utils`. This will grab everything except the .git files and git history
+From your project directory inside the terminal run `npx degit quelchx/utilities utils`. This will grab everything except the .git files and git history
 
 ### Generate Unique ID
 
