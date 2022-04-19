@@ -47,7 +47,7 @@ An example of using this function:
 ```js
 const passwordCheck = require('./utilities/check-password)
 
-passWordCheck('Hello World')
+passwordCheck('Hello World')
 // output {verification: {status: false, message: 'Password contains whitespace'}}
 ```
 
